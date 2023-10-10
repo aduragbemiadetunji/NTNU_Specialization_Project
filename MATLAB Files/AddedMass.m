@@ -22,9 +22,9 @@ L=485;                           % Length of ROV [mm]
 H=354;                           % Height of ROV [mm]
 W=257;                           % Width  of ROV  mm]
 rho=1000;                         % Density fluid [kg/m^3]
-PF= 22256;                      % Projected Area front [mm^2]
-PS= 86456;                      % Projected Area side  [mm^2]
-PT= 27500;                      % Projected Area top   [mm^2]
+PF= 56387;                      % Projected Area front [mm^2]
+PS= 140366;                      % Projected Area side  [mm^2]
+PT= 79561.5;                      % Projected Area top   [mm^2]
 A=zeros(6,6);                     % Added mass Matrix
 
  
